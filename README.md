@@ -1,2 +1,2 @@
 # designpatterns
-practice design patterns in python
+practice of design patterns in python
